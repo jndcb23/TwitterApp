@@ -1,0 +1,17 @@
+<resources>
+    <!-- Labels and text-->
+    <string name="app_name">JNDCBTwitter</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="search_username">Twitter Username</string>
+    <string name="searching_text">Searching for your tweets…</string>
+
+    <!-- API Keys-->
+    <string name="api_key">7CRv5MEiDWgzoWBfyuz3bbO0f</string>
+    <string name="api_secret_key">wQQrLxk5CCgFN02rF7z8NBmvD8LtDWBPORVQJB7aGsS7CRbNNN</string>
+
+    <!-- Validation Messages-->
+    <string name="edittext_empty_field">Please enter your username.</string>
+    <string name="exit_app">Do you want to exit the application?</string>
+    <string name="error">No tweets found.</string>
+</resources>
